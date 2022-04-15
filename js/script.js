@@ -20,6 +20,7 @@ function SortearPosicaoCartas() {
     var posicaoSorteio = [[-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1]];
     for (var i = 0; i < 18; i++) {
         var foto = Math.round(Math.random() * 8);
+
         if (posicaoSorteio[foto][0] == -1)
             posicaoSorteio[foto][0] = i;
         else if (posicaoSorteio[foto][1] == -1)
@@ -28,10 +29,14 @@ function SortearPosicaoCartas() {
             i--;
     }
 
-    for(var i = 0; i< 9; i++){
+    for (var i = 0; i < 9; i++) {
         posicaoCartas[posicaoSorteio[i][0]] = i;
         posicaoCartas[posicaoSorteio[i][1]] = i;
     }
 
     console.log(posicaoCartas);
+}
+
+function VirarCarta(carta){
+    console.log(carta);
 }

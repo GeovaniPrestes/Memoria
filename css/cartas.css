@@ -1,0 +1,8 @@
+.carta{
+    width: 13vw;
+    background-color: blueviolet;
+    float: left;
+    margin: 0.6vw;
+    height: 13vw;
+    cursor: pointer;
+}

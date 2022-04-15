@@ -1,7 +1,7 @@
 Antes de mais nada bom dia.
 
 Para uma melhor experiecia é preferível que você coloque as imagens desejadas dentro da pasta imagens(Meio óbivio).
-Essas imagens devem de preferencia ser quadradas e em formato png.
+Essas imagens devem de preferencia ser quadradas, em formato png e numeradas de 0 a 8.
 
 Bom divertimento!
 Att El Presto.
