@@ -1,8 +1,44 @@
-.carta{
+.carta {
     width: 13vw;
     background-color: blueviolet;
     float: left;
     margin: 0.6vw;
     height: 13vw;
     cursor: pointer;
+}
+
+.virada0 {
+    background-image: url(../imagens/0.png) !important;
+}
+
+.virada1 {
+    background-image: url(../imagens/1.png) !important;
+}
+
+.virada2 {
+    background-image: url(../imagens/2.png) !important;
+}
+
+.virada3 {
+    background-image: url(../imagens/3.png) !important;
+}
+
+.virada4 {
+    background-image: url(../imagens/4.png) !important;
+}
+
+.virada5 {
+    background-image: url(../imagens/5.png) !important;
+}
+
+.virada6 {
+    background-image: url(../imagens/6.png) !important;
+}
+
+.virada7 {
+    background-image: url(../imagens/7.png) !important;
+}
+
+.virada8 {
+    background-image: url(../imagens/8.png) !important;
 }
