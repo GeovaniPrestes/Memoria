@@ -1,0 +1,16 @@
+*{
+    color: #fff;
+    background-color: #313131;
+}
+
+.inativo{
+    visibility: hidden;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+}
